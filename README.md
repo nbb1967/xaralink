@@ -7,3 +7,6 @@ The original preview module from Xara has been deprecated 10 years ago and is st
 
 ### Installation:
 Replace the original xaralink.exe in the folder with the installed program.
+
+> [!NOTE]
+> To be fair, in 2025 this ancient bug is already fixed in "black & white" Xara, but I'll leave this module here for all the fans of "color" Xara...
